@@ -20,3 +20,18 @@ https://school.programmers.co.kr/learn/courses/30/lessons/77884
 https://school.programmers.co.kr/learn/courses/30/lessons/86051
 10. 완주하지 못한 선수
 https://school.programmers.co.kr/learn/courses/30/lessons/42576
+
+***
+### 1. 평균 구하기
+그냥 배열의 합을 배열의 길이로 나누어 줬음
+
+변수의 자료형 같은거 고려하지 않는게 맞는건지 모르겠음
+
+### 2. 짝수와 홀수
+나머지 연산자 %
+
+한줄로도 써봤음
+
+### 3. 자릿수 더하기
+자료형을 바꿔서 더하기
+
