@@ -26,3 +26,6 @@ def solution(n, lost, reserve):
     answer = max(result, result2)
 
     return answer
+
+# 그리디  탐욕법 풀어볼만한예제
+# https://www.acmicpc.net/problemset?sort=ac_desc&algo=33

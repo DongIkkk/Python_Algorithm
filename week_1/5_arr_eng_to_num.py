@@ -27,3 +27,13 @@ def solution(s):
 
     return int(answer)
 
+# in, replace, index를 활용해보기
+
+# arr = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
+#
+# arr2 = 'zeroonehello'
+#
+# inarr = 'zero' in arr
+# inarr2 = 'zero' in arr2
+#
+# print(inarr, inarr2)
