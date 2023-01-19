@@ -15,7 +15,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42842
 ***
 ### 1. DFS 직접 구현
 
-
 ### 2. BFS 직접 구현
 
 ### 3. 최소직사각형 - 완전탐색
