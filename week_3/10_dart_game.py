@@ -89,6 +89,3 @@ def solution(dartResult):
     
     result = x + y + z
     return result
-
-
-solution('1D2S#10S')
