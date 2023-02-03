@@ -6,3 +6,6 @@
 [week2](https://github.com/DongIkkk/Python_Algorithm/tree/main/week_2)
 
 [week3](https://github.com/DongIkkk/Python_Algorithm/tree/main/week_3)
+
+[week4](https://github.com/DongIkkk/Python_Algorithm/tree/main/week_4)
+
